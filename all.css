@@ -1,0 +1,24 @@
+h1{text-align:center; font-size:120px; padding:0px; margin:0px 0px 120px 0px; line-height:120px;}
+h2{text-align:center; font-size:50px; padding:0px; margin:0px 0px 50px 0px; line-height:50px;}
+h3{}
+h4{}
+h5{}
+h6{}
+p{text-align:center}
+a{}
+
+
+.row-banner{}
+.row-banner .row-inner{}
+.row-banner .row-inner .banner-header-block{}
+.row-banner .row-inner .banner-header-block h1{margin:0px 0px 0px 0px;}
+.row-banner .row-inner .banner-header-block h2{text-transform:uppercase;}
+
+.row-text{}
+.row-text .row-inner{}
+.row-text .row-inner .text-content-block{text-align:center;}
+.row-text .row-inner .text-content-block p{text-align:left; max-width:600px; display:inline-block;}
+
+.row-bottom{}
+.row-bottom .row-inner{padding:100px 0px 0px 0px;}
+.row-bottom .row-inner.bottom-email-block{}
